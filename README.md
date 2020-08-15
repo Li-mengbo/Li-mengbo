@@ -7,35 +7,35 @@
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br>
+        <span>𝗖𝗦𝗦𝟯</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br>
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗩𝘂𝗲</span><br>
+        <span>𝗩𝘂𝗲</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>Node.js</span><br>
+        <span>Node.js</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       <td width="20%" align="center">
-        <span>React</span><br>
+        <span>React</span><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
       <td width="20%" align="center">
-        <span>Webpack</span><br>
+        <span>Webpack</span><br><br>
         <img height="60px" src="https://cdn.svgporn.com/logos/webpack.svg">
       </td>
       <td width="20%" align="center">
-        <span>Git</span><br>
+        <span>Git</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
