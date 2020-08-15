@@ -5,16 +5,15 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  <code><img width="10%" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-  <code><img width="10%" src="https://cdn.svgporn.com/logos/vue.svg"></code>
-  <code><img width="10%" src="https://cdn.svgporn.com/logos/webpack.svg"></code>
-  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
+  <br />
+  <img width="10%" src="https://cdn.svgporn.com/logos/vue.svg">
 </p>
 
 
