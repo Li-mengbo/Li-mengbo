@@ -16,7 +16,7 @@
       </td>
       <td width="20%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
-        <img height="auto" width="55%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
+        <img height="auto" width="55%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
       </td>
       <td width="20%" align="center">
         <span>𝗩𝘂𝗲</span><br><br>
