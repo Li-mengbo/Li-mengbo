@@ -8,15 +8,15 @@
     <tr valign="top">
       <td width="20%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
-        <img height="auto" width="22%" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <img height="auto" width="30%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
       </td>
       <td width="20%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br>
-        <img height="auto" width="22%" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <img height="auto" width="30%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
       </td>
       <td width="20%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="auto" width="30%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg">
       </td>
       <td width="20%" align="center">
         <span>𝗩𝘂𝗲</span><br><br>
@@ -26,13 +26,13 @@
     <tr valign="top">
       <td width="20%" align="center">
         <span>Node.js</span><br><br>
-        <img height="auto" width="30%" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+        <img height="auto" width="30%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg">
       <td width="20%" align="center">
         <span>React</span><br><br>
         <img height="auto" width="60%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
       <td width="20%" align="center">
         <span>Webpack</span><br><br>
-        <img height="auto" width="30%" src="https://cdn.svgporn.com/logos/webpack.svg">
+        <img height="auto" width="30%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg">
       </td>
       <td width="20%" align="center">
         <span>Git</span><br><br>
@@ -42,6 +42,11 @@
   </tbody>
 </table>
 <!--
+https://cdn.svgporn.com/logos/nodejs-icon.svg
+https://cdn.svgporn.com/logos/webpack.svg
+https://cdn.svgporn.com/logos/javascript.svg
+https://cdn.svgporn.com/logos/html-5.svg
+https://cdn.svgporn.com/logos/css-3.svg
 <p>  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
